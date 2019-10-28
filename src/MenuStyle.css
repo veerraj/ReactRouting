@@ -1,0 +1,25 @@
+*{margin: 0;padding: 0;}
+
+.MenuStyle{
+    height: 100px;
+    width: 100%;
+    background:greenyellow;
+    color:white;
+}
+.MenuStyle ul{
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color:white;
+    
+}
+.MenuStyle ul li{
+    list-style: none;
+    text-transform: uppercase;
+    color: white;
+}
+.MenuStyle ul li a{
+    text-decoration: none;
+    color:white;
+}
